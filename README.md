@@ -79,6 +79,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-adhiradas973@gmail.com-D14836?style=flat&logo=gmail)](mailto:adhiradas973@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-adhiradas2004-181717?style=flat&logo=github)](https://github.com/adhiradas2004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adhira%20Das-blue?style=flat&logo=linkedin)](https://linkedin.com/in/adhira-das-21a20836b)
+
+
 
 ---
 
